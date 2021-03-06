@@ -1,0 +1,141 @@
+@media screen and (max-width: 1080px){
+    #nav #menu{
+        display: none;
+    }
+    
+    #menu_btn{
+        display: block;
+    }
+    
+    .overlay{
+        display: block;
+    }
+    
+    .mini_nav{
+        display: none;
+    }
+    
+    #side_nav{
+        display: none;
+    }
+    .home_slides{
+        margin-top: 30px;
+        margin-left: auto;
+    }
+    
+    .mySlides img{
+        width: 100%;
+        max-height: 100%
+    }
+     .product_01{
+        flex: 50%;
+        max-width: 50%;
+    }
+    
+    .pasta{
+        flex: 50%;
+        max-width: 50%;
+    }
+    
+    .flex_new{
+        flex: 50%;
+        max-width: 100%;
+    }
+    .column{
+        flex: 50%;
+        max-width: 100%;
+    }
+    .pasta_22 img{
+        width: 100px
+    }
+    .semo_1{
+        flex: 50%;
+        max-width: 50%;
+    }
+    
+    #service01{
+        flex: 50%;
+        max-width: 50%;
+    }
+    
+    #footer h2{
+        width: 250px
+    }
+    
+    .center_foot{
+        margin: 0;
+        width: 500px
+    }
+    .right_foot{
+        margin: 0;
+        padding: 50px;
+        line-height: 50px;
+    
+}
+    
+    
+    
+
+
+@media screen and (max-width: 600px) {
+    
+    .product_01{
+        flex: 100%;
+        max-width: 100%;
+    }
+    .flex_new{
+        flex: 100%;
+        max-width: 100%;
+    }
+    
+    #nav #header{
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    
+    #menu_btn{
+        width: 40px;
+        margin-top:10px
+    }
+    .pasta img{
+        flex: 100%;
+        max-width: 100%;
+    }
+    .column{
+        flex: 50%;
+        max-width: 100%;
+    }
+    
+    #footer h2{
+        font-size: 15px;
+        width: 150px;
+    }
+    
+    .center_foot{
+        margin-left: 0;
+        width: 100px;
+    }
+    .center_foot a{
+        font-size: 15px;
+        width: 100px
+    }
+    .right_foot{
+        margin-left: 0;
+        margin-top: -20px
+    }
+    
+    .pasta_01{
+        margin-top: 100px
+    }
+    #service01 img{
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .home{
+        margin-left: 400px;
+    }
+    
+}

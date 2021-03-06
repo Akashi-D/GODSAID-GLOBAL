@@ -1,0 +1,69 @@
+body{
+    background-color: #fff;
+    margin: 0;
+}
+
+.pasta_01{
+    text-align: center;
+    background-color: white;
+    margin: 10px
+}
+
+.pasta_1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pasta{
+    flex: 25%;
+    max-width: 25%
+}
+
+.pasta img{
+    width: 270px;
+    height: 270px;
+    width: 100%;
+}
+.pasta h5{
+    font-weight: 100;
+    margin-top: -20px
+}
+
+
+#pagnation{
+    text-align: center;
+    padding: 20px;
+}
+
+#pagnation a{
+    padding: 20px;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+
+/*
+#outOfStock{
+    opacity: 0.2
+}
+*/
+
+
+/*MATTRASSES MATTRASSES MATTRASSES*/
+/*MATTRASSES MATTRASSES MATTRASSES*/
+/*MATTRASSES MATTRASSES MATTRASSES*/
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px 20px;
+}
+.column{
+    flex: 25%;
+    max-width: 25%;
+    text-align: center;
+}
+.column img{
+    margin-top: 8px;
+    vertical-align: middle;
+    max-width: 1000px;
+}

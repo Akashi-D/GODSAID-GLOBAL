@@ -1,0 +1,114 @@
+body{
+    font-family: sans-serif;
+}
+
+#contactUs{
+    text-align: center;
+}
+#WriteToUs{
+    background-color: #68e5fc;
+    width: 150px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#WriteToUs:hover{
+    color: #f1f1f1;
+    background-color: #000
+}
+
+#contact{
+    text-align: center;
+    position: relative;
+    display: none;
+}
+
+#contact input{
+    width: 400px;
+    height: 30px;
+}
+
+#contact p{
+    color: #000;
+    font-size: 25px;
+    margin-left: -330px;
+    font-weight: 
+}
+
+#sending{
+    border: 1px solid black;
+    padding: 10px 40px 10px 40px;
+    color: #f1f1f1;
+    background-color: #68E5FC;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#sending:hover{
+    color: #000;
+    background-color: #f1f1f1;
+}
+
+
+/*ABOUT ABOUT ABOUT ABOUT*/
+/*ABOUT ABOUT ABOUT ABOUT*/
+/*ABOUT ABOUT ABOUT ABOUT*/
+
+#ceo img{
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#ceo p{
+    margin-left: 30px;
+    width: 80%;
+    font-size: 20px
+}
+
+#services{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 50px;
+}
+#service01{
+    flex: 33%;
+    max-width: 33%;
+}
+
+#services img{
+    width: 150px;
+    height: 150px;
+}
+#services p{
+    font-size: 20px;
+    font-weight: 700;
+    border-bottom-width: 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
